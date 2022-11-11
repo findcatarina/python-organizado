@@ -1,0 +1,5 @@
+num1 = int(input('informe o primeiro valor'))
+num2 = int(input('informe o segundo valor'))
+multi = int(num1)*int(num2)
+divi = int(num1)/int(num2)
+print ('a multiplicação é{} e a divisão é {}'.format(multi, divi))
